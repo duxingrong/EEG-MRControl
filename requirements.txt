@@ -1,0 +1,17 @@
+# EEG增强AR交互系统依赖包
+
+# 计算机视觉和图像处理
+opencv-contrib-python==4.12.0.88
+numpy==1.26.4
+
+# Intel RealSense相机支持
+pyrealsense2==2.55.1.6486
+
+# YOLO目标检测
+ultralytics==8.3.159
+
+# 科学计算和信号处理
+scipy==1.13.1
+
+# 可视化工具
+matplotlib==3.9.4
